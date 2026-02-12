@@ -1,0 +1,14 @@
+{
+  "Fish1": {
+    "species": "Clownfish",
+    "fact": "Loves hiding in anemones"
+  },
+  "Fish2": {
+    "species": "Goldfish",
+    "fact": "Recognizes its owner"
+  },
+  "Fish3": {
+    "species": "Mini Shark",
+    "fact": "Fast swimmer, but friendly!"
+  }
+}
